@@ -9,7 +9,7 @@ const contactCards = [
     icon: MapPin,
     title: "Visit Us",
     detail: contactDetails.address,
-    href: "https://maps.google.com/?q=480+Pacific+Avenue+Suite+210+San+Francisco+CA+94133",
+    href: "https://maps.google.com/?q=Bd+Ghandi+Grand+Casablanca+Morocco"
   },
   {
     icon: Phone,
